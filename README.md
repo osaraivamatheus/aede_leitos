@@ -8,6 +8,6 @@ A linguagem de programação python foi utilizada para realizar o estudo. A repr
 pip install -r requirements
 ```
 
-O texto completo da análise pode ser acessado neste [link][link]. Já a análise juntamente com os códigos podem ser acessados [neste notebook]
+O texto completo da análise pode ser acessado neste [arquivo PDF](https://github.com/osaraivamatheus/aede_leitos/blob/main/AEDE.pdf). Já a análise juntamente com os códigos podem ser acessados [neste notebook]
 
 

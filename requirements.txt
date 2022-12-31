@@ -8,3 +8,4 @@ splot
 mapclassify
 libpysal
 esda
+pysus

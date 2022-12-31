@@ -8,6 +8,6 @@ A linguagem de programação python por meio da distribuição [Anaconda](https:
 pip install -r requirements
 ```
 
-O texto completo da análise pode ser acessado neste [arquivo PDF](https://github.com/osaraivamatheus/aede_leitos/blob/main/AED.pdf). Já a análise juntamente com os códigos podem ser acessados [neste notebook]
+O texto completo da análise pode ser acessado neste [arquivo PDF](https://github.com/osaraivamatheus/aede_leitos/blob/main/AED.pdf). Já a análise juntamente com os códigos podem ser acessados [neste notebook](https://github.com/osaraivamatheus/aede_leitos/blob/main/aed.ipynb).
 
 

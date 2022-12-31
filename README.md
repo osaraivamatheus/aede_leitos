@@ -1,4 +1,4 @@
-# Análise exploratória da quantidade de leitos disponíveis durante a pandemia Covid-19
+# Análise exploratória da evolução de leitos disponíveis durante a pandemia Covid-19
 
 O presente estudo tem por objetivo analisar a evolução da capacidade hospitalar durante a pandemia de Covid-19 em Goiás. Sendo assim, dentro da análise exploratória de dados foram realizadas as análises descritiva e espacial, a fim de conhecer a distribuição e dependência dos municípios goianos em relação ao número de leitos respectivamente.
 
